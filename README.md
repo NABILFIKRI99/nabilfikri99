@@ -1,6 +1,7 @@
 [![MasterHead](bil.jfif)](https://nabilfikrisabani.my/)
 <h1 align="center">Hi 👋, I'm NabilFikri</h1>
 <h3 align="center">A passionate Software Engineer from Malaysia</h3>
+<p>I'm NabilFikri bin Md Sabani, a software engineering student specializing in web development and creating unique web experiences. Designing and coding have been my passions since I first began working with computers, but I've found my niche in web design/development since 2020. I enjoy creating visually appealing, user-friendly, and functional websites.</p>
 <img align="right" alt=Profile Picture" width="250" height="250" src="D0816831.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nabilfikri99&label=Profile%20views&color=0e75b6&style=flat" alt="nabilfikri99" /> </p>
